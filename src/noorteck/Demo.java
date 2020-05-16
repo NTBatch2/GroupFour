@@ -9,5 +9,6 @@ public class Demo {
 	public void second() {
 		System.out.println("Second Stash");
 	}
+	//new comment by Sergii
 	
 }
