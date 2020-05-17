@@ -5,4 +5,8 @@ public class SaraClass {
 		System.out.println("Please work");
 	}
 
+	
+	public void display() {
+		System.out.println("More Practice");
+	}
 }
