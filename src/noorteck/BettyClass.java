@@ -9,6 +9,7 @@ public class BettyClass {
 	
 	public void add() {
 		System.out.println("add");
+		System.out.println("Watever");
 	}
 	//Add comment at 5/17/2020 for prcticing
 	 
