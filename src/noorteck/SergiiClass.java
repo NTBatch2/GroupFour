@@ -17,4 +17,5 @@ public class SergiiClass {
 	public void multiply() {
 		System.out.println("multiply");
 	}
+	//new one
 }
