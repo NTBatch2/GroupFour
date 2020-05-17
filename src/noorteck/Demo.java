@@ -13,4 +13,8 @@ public class Demo {
 	
 	//comment#2 by Betty
 	
+	
+	public void sub() {
+		System.out.println("sub");
+	}
 }

@@ -12,4 +12,8 @@ public class SergiiClass {
 		 * what is that?? do we saved class differently then comments?
 		*/
 	}
+	
+	public void multiply() {
+		System.out.println("multiply");
+	}
 }

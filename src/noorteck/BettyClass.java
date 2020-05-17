@@ -5,4 +5,8 @@ public class BettyClass {
 		System.out.println(" Yay I made it to GitHub");
 	}
 
+	
+	public void add() {
+		System.out.println("add");
+	}
 }

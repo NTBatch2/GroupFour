@@ -10,4 +10,8 @@ public class SaraClass {
 	public void display() {
 		System.out.println("More Practice");
 	}
+	
+	public void div() {
+		System.out.println("div");
+	}
 }
