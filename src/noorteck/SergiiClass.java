@@ -12,6 +12,7 @@ public class SergiiClass {
 		 * what is that?? do we saved class differently then comments?
 		*/
 		//added comment to Sergii
+		//new comment by Sergii
 	}
 	
 	public void multiply() {
