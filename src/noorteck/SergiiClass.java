@@ -11,6 +11,7 @@ public class SergiiClass {
 		 * Does not Contain any local changes
 		 * what is that?? do we saved class differently then comments?
 		*/
+		//added comment to Sergii
 	}
 	
 	public void multiply() {
